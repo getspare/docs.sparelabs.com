@@ -7,6 +7,6 @@ permalink: /external
 heading: Spare Labs External APIs
 apis:
     - name: Pool API
-      description: On Demand Pooling API service. Desgined to provide on demand transportation to customers and pooling riders together to improve efficiency
+      description: On Demand Pooling API service. Designed to provide on demand transportation to customers and pooling riders together to improve efficiency
       link: https://api-docs.io/preview/oi7Sniby8BGFyZqha/?apiKey=DiXoeeYuxDax6ndXJ
 ---
