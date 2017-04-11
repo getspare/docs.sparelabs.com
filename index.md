@@ -6,9 +6,9 @@ layout: home
 links: 
     - name: Customer Documentation
       description: External documentation for our partners and customers
-      link: /external
+      link: /external.html
     - name: Internal Documentation
       description: Documentation for our internal development team at Spare Labs 
-      link: /internal
+      link: /internal.html
 ---
 
