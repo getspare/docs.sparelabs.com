@@ -30,3 +30,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+jekyll_auth:
+  ssl: true
+  whitelist:
+    - "^((?!internal).)*$"
