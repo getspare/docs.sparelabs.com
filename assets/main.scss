@@ -91,7 +91,7 @@ div.list-container {
         @include box-shadow(0, 1px, 3px, rgba(0, 0, 0, 0.15));
         background-color: white;
         display: flex; 
-        flex-basis: calc(50%);
+        flex-basis: calc(70%);
         margin: 12px;
         padding: 30px;
         justify-content: center;
@@ -131,7 +131,6 @@ div.list-container {
     }
 
     a.list-entry:hover {
-        // transform: scale(1.02, 1.02);
         transform: translateY(-3px);
     }
 
