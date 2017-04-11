@@ -98,7 +98,6 @@ div.list-container {
         flex-direction: column;
         text-decoration: none;
         position: relative;
-        @include perspective(1000);
         
         p.list-link {
             margin-bottom: 5px;
@@ -132,7 +131,8 @@ div.list-container {
     }
 
     a.list-entry:hover {
-        transform: scale(1.02, 1.02);
+        // transform: scale(1.02, 1.02);
+        transform: translateY(-3px);
     }
 
     /* Fade in the pseudo-element with the bigger shadow */
