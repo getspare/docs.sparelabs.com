@@ -101,11 +101,13 @@ div.list-container {
             font-weight: 600;
             letter-spacing: .025em;
             line-height: 26px;
+            backface-visibility: hidden;
         }
 
         p.list-description {
             margin-bottom: 0px;
             color: #777;
+            backface-visibility: hidden;
         }
     }
 
