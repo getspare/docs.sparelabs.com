@@ -5,6 +5,7 @@
 layout: apis
 permalink: /internal
 heading: Spare Labs Internal Documentation
+title: Internal Documentation
 apis:
     - name: Spare Labs Pool Internal Documentation
       description: Matching Engine and Internal API documentation
