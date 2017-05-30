@@ -10,4 +10,7 @@ apis:
     - name: Spare Labs Pool API
       description: On Demand Pooling API service. Designed to provide on demand transportation to customers and pooling riders together to improve efficiency. 
       link: https://api-docs.io/preview/oi7Sniby8BGFyZqha/?apiKey=DiXoeeYuxDax6ndXJ
+    - name: Spare Rides API
+      description: Carpooling riders and driver client API
+      link: https://api-docs.io/preview/CFH3wnTb2z33TWF84?apiKey=DiXoeeYuxDax6ndXJ
 ---
