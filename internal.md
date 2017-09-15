@@ -5,11 +5,9 @@
 layout: apis
 permalink: /internal
 heading: Spare Labs Internal Documentation
+title: Internal Documentation
 apis:
-    - name: Pool Internal API
-      description: Internal REST API for saving information to the database. Used by the Matching Module.
+    - name: Spare Labs Pool Internal Documentation
+      description: Matching Engine and Internal API documentation
       link: https://api-docs.io/preview/m2FP7Cyt9GJupojoe/?apiKey=DiXoeeYuxDax6ndXJ
-    - name: Pool Matching Module API
-      description: Matching Module component of the system. Responsible for running all matching algorothm logic
-      link: https://api-docs.io/preview/X5b89pukqrsEYvCqo/?apiKey=DiXoeeYuxDax6ndXJ
 ---
