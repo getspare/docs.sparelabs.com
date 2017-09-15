@@ -5,9 +5,8 @@
 layout: apis
 permalink: /external
 heading: Spare Labs External APIs
-title: External APIs
 apis:
-    - name: Pool API
-      description: On Demand Pooling API service. Designed to provide on demand transportation to customers and pooling riders together to improve efficiency
+    - name: Spare Labs Platform API
+      description: The Spare Labs Platform is a transportation management system that allows customers to spin up on-demand, deviated fixed-route and carpooling services in one click.  This API is avaialble for clients to connect to various service types and enable seamless transportation.
       link: https://api-docs.io/preview/oi7Sniby8BGFyZqha/?apiKey=DiXoeeYuxDax6ndXJ
 ---
