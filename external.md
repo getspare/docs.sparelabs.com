@@ -10,7 +10,4 @@ apis:
     - name: Spare Labs Platform API
       description: The Spare Labs Platform is a transportation management system that allows customers to spin up on-demand, deviated fixed-route and carpooling services in one click.  This API is avaialble for clients to connect to various service types and enable seamless transportation.
       link: https://api-docs.io/preview/oi7Sniby8BGFyZqha/?apiKey=DiXoeeYuxDax6ndXJ
-    - name: Spare Rides API
-      description: Carpooling riders and driver client API
-      link: https://api-docs.io/preview/CFH3wnTb2z33TWF84?apiKey=DiXoeeYuxDax6ndXJ
 ---
